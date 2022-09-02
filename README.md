@@ -16,8 +16,8 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
        3.3) Data Description
        3.4) Check Outliers
        3.5) Plot the Correlation
-4) Model the Data using 2 ways:
-       4.1) From Scratch
-       4.2) Using Sklearn Library Direct
+4) Model the Data using 2 ways:\
+       4.1) From Scratch\
+       4.2) Using Sklearn Library Direct\
 6) Evaluate the Model Using Mean Square Error percentage 
 
