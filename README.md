@@ -10,9 +10,9 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 ## The Steps to Implement the Model:
 1) Import The Used Libraries
 2) Read the Data
-3) Exploratory Data Analysis:
-       3.1) Information About the Data
-       3.2) Handling Missing Values
+3) Exploratory Data Analysis:\
+       3.1) Information About the Data\
+       3.2) Handling Missing Values\
        3.3) Data Description
        3.4) Check Outliers
        3.5) Plot the Correlation
